@@ -2,7 +2,7 @@
   "ver": "1.0.27",
   "importer": "image",
   "imported": true,
-  "uuid": "c3ddf678-3c19-46cf-ae56-619812ec2121",
+  "uuid": "167af6ed-3e24-41a2-b1b3-e6b88b643a36",
   "files": [
     ".json",
     ".png"
@@ -10,14 +10,14 @@
   "subMetas": {
     "6c48a": {
       "importer": "texture",
-      "uuid": "c3ddf678-3c19-46cf-ae56-619812ec2121@6c48a",
-      "displayName": "bluebird-upflap",
+      "uuid": "167af6ed-3e24-41a2-b1b3-e6b88b643a36@6c48a",
+      "displayName": "redbird-midflap",
       "id": "6c48a",
       "name": "texture",
       "userData": {
         "wrapModeS": "clamp-to-edge",
         "wrapModeT": "clamp-to-edge",
-        "imageUuidOrDatabaseUri": "c3ddf678-3c19-46cf-ae56-619812ec2121",
+        "imageUuidOrDatabaseUri": "167af6ed-3e24-41a2-b1b3-e6b88b643a36",
         "isUuid": true,
         "visible": false,
         "minfilter": "linear",
@@ -34,8 +34,8 @@
     },
     "f9941": {
       "importer": "sprite-frame",
-      "uuid": "c3ddf678-3c19-46cf-ae56-619812ec2121@f9941",
-      "displayName": "bluebird-upflap",
+      "uuid": "167af6ed-3e24-41a2-b1b3-e6b88b643a36@f9941",
+      "displayName": "redbird-midflap",
       "id": "f9941",
       "name": "spriteFrame",
       "userData": {
@@ -114,7 +114,7 @@
           ]
         },
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "c3ddf678-3c19-46cf-ae56-619812ec2121@6c48a",
+        "imageUuidOrDatabaseUri": "167af6ed-3e24-41a2-b1b3-e6b88b643a36@6c48a",
         "atlasUuid": ""
       },
       "ver": "1.0.12",
@@ -129,6 +129,6 @@
     "type": "sprite-frame",
     "hasAlpha": true,
     "fixAlphaTransparencyArtifacts": false,
-    "redirect": "c3ddf678-3c19-46cf-ae56-619812ec2121@6c48a"
+    "redirect": "167af6ed-3e24-41a2-b1b3-e6b88b643a36@6c48a"
   }
 }

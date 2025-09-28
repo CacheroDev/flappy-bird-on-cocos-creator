@@ -20,7 +20,7 @@ export class PlatformParallax extends Component {
         let _currentPos = this.node.getPosition();
         
         if (_currentPos.x >= this.minPos) {
-            this.node.setPosition(_currentPos.x -= this.speed * deltaTime, _currentPos.y);
+            this.node.setPosition(_currentPos.x -= this.speed * deltaTime, 0);
         } else {
             this.node.setPosition(this.resetPos, 0);       
         }
